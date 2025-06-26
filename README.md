@@ -15,6 +15,12 @@ The complete implementation, including CAD models, reports, and analyses, is par
 - Includes forward and inverse kinematics for precise control
 - Integrated torque analysis to ensure component compatibility
 - Potential for onboard sensing and visual navigation using structure-from-motion techniques
+## Solidwork images
+![image](https://github.com/user-attachments/assets/59b8ebe4-793b-400e-9b97-d552e9344963)
+
+
+![image](https://github.com/user-attachments/assets/37b0d5aa-b446-4713-9f6a-73d1c099b4db)
+
 
 ## Applications
 
